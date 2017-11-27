@@ -4,7 +4,7 @@ Quaternion and Vector3 library implemented in Java
 Getting started
 ---
 
-Repository contains compatible with Unity3D library operations and much more.
+Repository contains similar to Unity3D library operations and much more.
 
 Quick overview
 ---
